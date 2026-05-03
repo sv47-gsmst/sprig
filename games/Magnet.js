@@ -1,6 +1,6 @@
 /*
 @title Magnetic Maze Prototype
-@author You
+@author SV
 */
 
 const player = "p";
